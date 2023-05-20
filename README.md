@@ -1,8 +1,3 @@
-# August Guidry's .vimrc
+# Brewfile of August Guidry
 
-## To do list:
-- [ ] Hilight current line
-- [ ] Spellchecking
-- [ ] Use the clipboard for pasting
-- [ ] Get solarized theme
-	- [ ] Write Python script that changes day / night theme based on system setting
+I created this file to streamline the installation of my favorite brew packages across the Macintosh computers I work with. To my surprise, I discovered that others were also developing similar files. Initially, I named it "brewscript," but I later learned that the correct term for such a file is "brewfile."
